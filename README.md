@@ -3,7 +3,7 @@ This project analyzes Netflix data to uncover viewer behaviors and content trend
 
 
 
-![Netflix Data Analysis](https://github.com/SakshiYadav13/Netflix-Data-Analysis/assets/88963135/2088d860-f69a-4407-9de1-2c893f763f5a)
+![Netflix Data Analysis](https://github.com/TheSaksham8/Netflix-Data-Analysis/tree/main)
 
 
 ## Objectives
